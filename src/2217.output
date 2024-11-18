@@ -1,0 +1,43 @@
+[33mres: 3 [00m
+[33mx, y: 2 3 [00m
+[33mx: 2 [00m
+[33mx: 1 [00m
+[33mx: 3 [00m
+[33mx, pos[x], pos[x-1], xinpos: 2 1 2 0 [00m
+[33mx, pos[x], pos[x-1], xinpos: 1 2 -1 1 [00m
+[33mx, pos[x], pos[x-1], xinpos: 3 4 1 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 2 2 1 1 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 2 2 0 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 1 1 -1 1 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 1 1 1 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 3 4 2 1 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 3 4 1 1 [00m
+2 
+[33mx, y: 1 5 [00m
+[33mx: 4 [00m
+[33mx: 3 [00m
+[33mx: 5 [00m
+[33mx, pos[x], pos[x-1], xinpos: 4 0 4 0 [00m
+[33mx, pos[x], pos[x-1], xinpos: 3 4 2 1 [00m
+[33mx, pos[x], pos[x-1], xinpos: 5 3 0 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 4 4 0 1 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 4 4 0 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 3 0 2 0 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 3 0 1 0 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 5 3 4 0 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 5 3 1 0 [00m
+3 
+[33mx, y: 2 3 [00m
+[33mx: 1 [00m
+[33mx: 2 [00m
+[33mx: 3 [00m
+[33mx, pos[x], pos[x-1], xinpos: 1 1 -1 1 [00m
+[33mx, pos[x], pos[x-1], xinpos: 2 2 1 1 [00m
+[33mx, pos[x], pos[x-1], xinpos: 3 0 2 0 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 1 2 -1 1 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 1 2 1 1 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 2 1 2 0 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 2 1 1 0 [00m
+[33m"later swap", x, pos[x], pos[x-1], xinpos: later swap 3 0 1 0 [00m
+[33mx, pos[x], inplace[i], new_inplace[i]: 3 0 0 0 [00m
+4 
