@@ -1,0 +1,14 @@
+[33mx,y, dir: 2 2 2 [00m
+[33mpx, py, dir: 2 3 1 [00m
+[33mpx, py, dir: 1 3 1 [00m
+[33mpx, py, dir: 0 3 0 [00m
+[33mpx, py, dir: 0 2 0 [00m
+[33mpx, py, dir: 0 1 0 [00m
+[33mpx, py, dir: 0 0 -1 [00m
+  ?   R   R   R 
+  ?   ?   ?   D 
+  ?   ?   L   D 
+[33mpathlen, path: 6 RRRDDL [00m
+YES 
+6 
+RRRDDL 
