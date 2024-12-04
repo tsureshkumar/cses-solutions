@@ -1,0 +1,12 @@
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 5 2 3 3135 3105 [00m
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 12 4 4 98 98 [00m
+[33mres.len, res.fw_hash, res.bw_hash: 3 97283 97283 [00m
+YES 
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 5 2 3 3817 3127 [00m
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 12 4 4 98 98 [00m
+[33mres.len, res.fw_hash, res.bw_hash: 3 118425 97305 [00m
+NO 
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 5 2 3 3817 3127 [00m
+[33mi, l, r, tree[i].fw_hash, tree[i].bw_hash: 12 4 4 120 120 [00m
+[33mres.len, res.fw_hash, res.bw_hash: 3 118447 118447 [00m
+YES 
