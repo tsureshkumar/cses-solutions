@@ -1,0 +1,15 @@
+4 0 $ 
+3 0 a$ 
+2 1 aa$ 
+1 2 aaa$ 
+0 3 aaaa$ 
+[33mv, tl, tr, st[v].val, st[v].lazy: 1 0 4 4 0 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 2 0 2 2 0 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 4 0 1 1 0 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 8 0 0 0 0 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 9 1 1 1 1 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 5 2 2 1 1 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 3 3 4 2 0 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 6 3 3 1 1 [00m
+[33mv, tl, tr, st[v].val, st[v].lazy: 7 4 4 1 1 [00m
+1 1 1 1  
