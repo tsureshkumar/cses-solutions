@@ -1,0 +1,5 @@
+[33mp, q, r, s: (-2, -5) (7, -5) (-3, -5) (-4, -5) [00m
+[33mpqr, pqs, rsp, rsq: 0 0 -0 -0 [00m
+[33mmax(p.x, q.x), min(r.x, s.x), max(r.x, s.x), min(p.x, q.x): 7 -4 -3 -2 [00m
+[33mmax(p.y, q.y), min(r.y, s.y), max(r.y, s.y), min(p.y, q.y): -5 -5 -5 -5 [00m
+NO 
